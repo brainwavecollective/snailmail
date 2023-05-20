@@ -1,3 +1,3 @@
 # snailmail
 
-This page will be updated with demo details for the hackathon
+contact daniel@brainwavelabs.ai for more info
